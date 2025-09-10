@@ -1,9 +1,9 @@
-#A python programto calculate simple interes
-P = 1000
-R= float(0.05)
-T = 3 
+#A python program to calculate simple interest
+principal = 1000
+rate = float(0.05)
+time = 3 
 
 #Formulating simple interest 
-interest = P * R * T
+interest = principal * rate * time 
 
 print(f"The simple interest is: {interest}")
