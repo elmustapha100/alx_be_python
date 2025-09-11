@@ -1,6 +1,6 @@
 #A python program to calculate simple interest
 principal = 1000
-rate = float(0.05)
+rate = 0.05
 time = 3 
 
 #Formulating simple interest 
