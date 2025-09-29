@@ -26,7 +26,7 @@ def main() :
         print(f"{temperature}°F is {converted_temp}°C")
 
     else :
-        print("Invalid input. Please enter 'C' for Celsius and 'F' for Fahrenheit.")  
+        print("Invalid temperature. Please enter a numeric value")  
 
 if __name__ == "__main__" : 
     main()         
