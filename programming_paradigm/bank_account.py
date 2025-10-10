@@ -1,5 +1,5 @@
 
-class BankAccount : 
+class BankAccount: 
     def __init__(self,account_balance = 0): 
         """initializing a balance parameter with default value of zero"""
         self.account_balance = account_balance 
@@ -20,5 +20,5 @@ class BankAccount :
     def display_balance(self): 
         """Display the current account balance in a user-friendly format."""
         print(f"Current Balance: ${self.account_balance}")   
-                              
+
 
