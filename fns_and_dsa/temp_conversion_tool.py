@@ -16,7 +16,7 @@ def main():
         temp_scale = input("Is this temperature in Celsius or Fahrenheit? (C/F): ").strip().upper()
         
         # Based on the user input, conditions to be checked
-        if temp_scale == "C":
+        if temp_scale == "C" :
             converted_temp = convert_to_fahrenheit(temperature)
             print(f"{temperature}°C is {converted_temp}°F")
         elif temp_scale == "F":
