@@ -257,7 +257,7 @@ This project is open source and available under the MIT License. See LICENSE fil
 
 ## 👤 Author
 
-**elmustapha100** - [GitHub Profile](https://github.com/elmustapha100)
+**elmustapha100** - (https://github.com/elmustapha100)
 
 ## 📧 Contact & Support
 
@@ -272,43 +272,3 @@ This project is open source and available under the MIT License. See LICENSE fil
 - **Last Updated:** March 14, 2026
 - **Created:** September 21, 2025
 
-## 🎓 Learning Path Recommendation
-
-### Beginner (Weeks 1-2)
-- [ ] Complete `python_introduction/`
-- [ ] Practice basic syntax and data types
-- [ ] Run and modify simple scripts
-
-### Intermediate (Weeks 3-4)
-- [ ] Master `control-flow/`
-- [ ] Learn `fns_and_dsa/` basics
-- [ ] Complete 5-10 small exercises
-
-### Advanced (Weeks 5-8)
-- [ ] Deep dive into `fns_and_dsa/` (DSA)
-- [ ] Complete `exception/` module
-- [ ] Study `oop/` thoroughly
-- [ ] Build a small project combining concepts
-
-### Expert (Weeks 9-12)
-- [ ] Explore `programming_paradigm/`
-- [ ] Create a complete backend-related project
-- [ ] Contribute to open-source projects
-- [ ] Start learning frameworks (Django, Flask)
-
-## ✨ Tips for Success
-
-1. **Practice Consistently** - Code daily, even if just for 30 minutes
-2. **Type Everything** - Don't copy-paste; type code to build muscle memory
-3. **Understand, Don't Memorize** - Focus on understanding concepts, not memorizing syntax
-4. **Experiment** - Modify code and see what happens
-5. **Debug Actively** - Learn to read and understand error messages
-6. **Build Projects** - Apply your learning by building real projects
-7. **Read Others' Code** - Study well-written code from experienced developers
-8. **Join Communities** - Engage with other learners on GitHub, Reddit, Discord
-
----
-
-**Happy Learning! 🎉**
-
-*Remember: Every expert was once a beginner. Keep practicing, stay curious, and enjoy your Python learning journey!*
